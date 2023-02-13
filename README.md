@@ -6,7 +6,7 @@ Today we'll be solving coding challenges on the CodeWars platform! Start about b
 
 Start out by forking and cloning this repository.
 
-**Your challenge is to complete at least FIVE (2 medium, 2 hard, 1 very hard) of the following CodeWars problems.** 
+**Your challenge is to complete at least FIVE (3 medium, 3 hard, 1 very hard) of the following CodeWars problems.** 
 
 ## Screenshots
 
