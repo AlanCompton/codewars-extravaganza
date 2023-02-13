@@ -2,9 +2,7 @@
 
 https://www.codewars.com/dashboard
 
-Today we'll be solving coding challenges on the CodeWars platform! Start about by making an account and setting your clan as "Code Immersives". 
-
-Start out by forking and cloning this repository.
+Today we'll be solving coding challenges on the CodeWars platform! Start about by making an account and setting your clan as "Code Immersives". .
 
 **Your challenge is to complete at least FIVE (3 medium, 3 hard, 1 very hard) of the following CodeWars problems.** 
 
