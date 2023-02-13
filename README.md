@@ -16,7 +16,7 @@ Submit your screenshots to Populi under Codewars Extravaganza as comments!
 
 _Remember, you only need to complete five of these_
 
-### Difficulty level: medium - CHOOSE 2
+### Difficulty level: medium - CHOOSE 3
 
 sum of positive
 https://www.codewars.com/kata/5715eaedb436cf5606000381
@@ -30,7 +30,7 @@ https://www.codewars.com/kata/55a2d7ebe362935a210000b2
 vowel count
 https://www.codewars.com/kata/54ff3102c1bad923760001f3
 
-### Difficulty level: hard - CHOOSE 2
+### Difficulty level: hard - CHOOSE 3
 
 sum of numbers
 https://www.codewars.com/kata/55f2b110f61eb01779000053
