@@ -2,9 +2,11 @@
 
 https://www.codewars.com/dashboard
 
-Today we'll be solving coding challenges on the CodeWars platform! Start about by making an account and setting your clan as "Code Immersives". .
+Today we'll be solving coding challenges on the CodeWars platform! Start about by making an account and setting your clan as "Code Immersives". 
 
-**Your challenge is to complete at least FIVE (3 medium, 3 hard, 1 very hard) of the following CodeWars problems.** 
+Start out by forking and cloning this repository.
+
+**Your challenge is to complete at least FIVE (2 medium, 2 hard, 1 very hard) of the following CodeWars problems.** 
 
 ## Screenshots
 
@@ -14,7 +16,7 @@ Submit your screenshots to Populi under Codewars Extravaganza as comments!
 
 _Remember, you only need to complete five of these_
 
-### Difficulty level: medium - CHOOSE 3
+### Difficulty level: medium - CHOOSE 2
 
 sum of positive
 https://www.codewars.com/kata/5715eaedb436cf5606000381
@@ -28,7 +30,7 @@ https://www.codewars.com/kata/55a2d7ebe362935a210000b2
 vowel count
 https://www.codewars.com/kata/54ff3102c1bad923760001f3
 
-### Difficulty level: hard - CHOOSE 3
+### Difficulty level: hard - CHOOSE 2
 
 sum of numbers
 https://www.codewars.com/kata/55f2b110f61eb01779000053
